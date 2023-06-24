@@ -40,7 +40,7 @@ body {
 #colors-list div {
   height: 100px;
   width: 100px;
-  border-radius: 50%;
+  border-radius: 100%;
   margin-top: 40px;
   transition: all 1s ease;
 }
